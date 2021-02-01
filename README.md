@@ -11,4 +11,6 @@ A compressed representation can be great for saving and sharing any kind of data
 
 ![alt text](https://github.com/Yogesh-S/24-Linear-Autoencoder/blob/main/denoising.png?raw=true)
 
-In this notebook, we'll be build a simple network architecture for the encoder and decoder.
+In this notebook, let us build a simple network architecture for the encoder and decoder using Linear layers as shown in the image below.
+
+![alt text](https://github.com/Yogesh-S/24-Linear-Autoencoder/blob/main/simple_autoencoder.png?raw=true)
